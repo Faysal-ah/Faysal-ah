@@ -1,5 +1,4 @@
-<h1 align="center"> I’m Faysal Ahmed </h1>
-<h2 align="center"> Passionate in software testing | Reach me at - ftahamad@gmail.com </h2>
+<h1 align="center"> Passionate in Software Testing <br> Reach me at - ftahamad@gmail.com </h1>
 
 <br/>
 
